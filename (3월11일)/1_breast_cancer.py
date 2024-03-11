@@ -40,6 +40,8 @@ pred_lr = clf_lr.predict(X_test) #X_test 내용으로 모델 만들기
 print("\n--- Logistic Regression Classifier ---")
 print(accuracy_score(y_test, pred_lr)) #만든 모델을 y_test와 비교하기
 print(confusion_matrix(y_test, pred_lr))
+# [true_pos false_neg
+# false_pos true_neg]
 
 # DT---------------------------------------------------------------------
 clf_dt = DecisionTreeClassifier(random_state=0)
