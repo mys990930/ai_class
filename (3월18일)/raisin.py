@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC
@@ -17,13 +18,20 @@ from tensorflow import keras
 
 TF_ENABLE_ONEDNN_OPTS = 0
 df = pd.read_excel("./csvs/Raisin_Dataset.xlsx", engine="openpyxl")
-print(df)
+#df.isnull().sum() #결측치 확인
+df.dropna() #결측치 제거
 
 X = df.drop('Class',axis=1)
 X.head()
 y = df['Class']
 y.value_counts()
 X_train, X_test, y_train, y_test = train_test_split(X, y,test_size=0.25,random_state=0)
+
+sns.countplot(data=df, x='Class')
+plt.xlabel("classes")
+plt.ylabel("count")
+plt.title("Raisin class count")
+plt.show()
 
 # LR---------------------------------------------------------------------
 lr_model = LogisticRegression(random_state=0, max_iter=500)
