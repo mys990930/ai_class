@@ -4,19 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e71c7975-c996-4b2c-8bb3-40e7474cea26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/(3월11일)/1_breast_cancer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(3월11일)/2_diabetes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ai-class.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csvs/breast_cancer.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csvs/diabetes.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="e71c7975-c996-4b2c-8bb3-40e7474cea26" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/(3월18일)/iris.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(3월18일)/raisin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csvs/Raisin_Dataset.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csvs/iris.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +39,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.!!!CHANGE_PATH!!!.executor": "Run",
     "Python.1_breast_cancer.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/문유신/PycharmProjects/ai-class/(3월11일)/2_diabetes.py"
+    "last_opened_file_path": "C:/Users/문유신/PycharmProjects/ai-class/(3월18일)/raisin.py"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -59,8 +53,8 @@
       <recent name="C:\Users\문유신\PycharmProjects\ai-class" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\문유신\PycharmProjects\ai-class\(3월11일)" />
       <recent name="C:\Users\문유신\PycharmProjects\ai-class\csvs" />
+      <recent name="C:\Users\문유신\PycharmProjects\ai-class\(3월11일)" />
     </key>
   </component>
   <component name="RunManager">
@@ -77,7 +71,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/(3월11일)/2_diabetes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/(3월18일)/raisin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +97,28 @@
       <option name="presentableId" value="Default" />
       <updated>1710116317019</updated>
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <option name="closed" value="true" />
+      <created>1710119400348</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710119400348</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".">
+      <option name="closed" value="true" />
+      <created>1710119711161</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710119711161</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
