@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e71c7975-c996-4b2c-8bb3-40e7474cea26" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/(3월18일)/titanic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csvs/titanic.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/(3월11일)/2_diabetes.py" beforeDir="false" afterPath="$PROJECT_DIR$/(3월11일)/2_diabetes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/(3월18일)/raisin.py" beforeDir="false" afterPath="$PROJECT_DIR$/(3월18일)/raisin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(3월25일)/boston.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(3월25일)/iris_regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(3월25일)/student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csvs/boston.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csvs/student-mat.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,11 +42,12 @@
   "keyToString": {
     "Python.!!!CHANGE_PATH!!!.executor": "Run",
     "Python.1_breast_cancer.executor": "Run",
+    "Python.boston.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/문유신/PycharmProjects/ai-class/(3월11일)/2_diabetes.py"
+    "last_opened_file_path": "C:/Users/문유신/PycharmProjects/ai-class/(3월25일)/student.py"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -71,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/(3월11일)/2_diabetes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/(3월25일)/student.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710725571285</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=".">
+      <option name="closed" value="true" />
+      <created>1710730644895</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710730644895</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
